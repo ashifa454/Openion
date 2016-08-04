@@ -1,0 +1,20 @@
+.editBox{
+	width:860px !important;
+	border:none;
+	top:50px;
+	padding:0;
+	z-index: -1 !important;
+}
+.editBox .mdl-dialog__title{
+height:40px;
+color:ghostwhite;
+background-color:#2b579a;
+}
+.editBox .mdl-dialog__content{
+	padding:0px;
+	
+	z-index: -1 !important;
+}
+.cke_dialog { 
+z-index: 1000000 !important; 
+} 
